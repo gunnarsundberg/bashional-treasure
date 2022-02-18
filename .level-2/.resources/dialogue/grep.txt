@@ -1,0 +1,1 @@
+One last important bit of information. If you want to search for something in a file, use the 'grep' command. For example, if I wanted to look for a line containing the word 'code' in the file 'secret_code', I would type 'grep code secret_code'. This should come in handy when you want to search the employee information in your bag for the Password.

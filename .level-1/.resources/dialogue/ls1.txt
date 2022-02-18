@@ -1,0 +1,1 @@
+... But wait.. How do I know what's in the directory once I get there? Treasure is no good if you can't see it! That's where the `ls` command comes in. Say you are now in the `treasure` directory. Simply type `ls` to see what's in the directory. Wow! We can now navigate to any directory and see what's in it.

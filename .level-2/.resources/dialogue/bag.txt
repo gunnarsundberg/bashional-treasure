@@ -1,0 +1,1 @@
+You unlocked the bag. Just like notes, the bag will be accessible wherever you go. If you find a key item, like the fingerprints or declaration, use 'mv' to put it in your bag.

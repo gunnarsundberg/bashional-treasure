@@ -1,0 +1,1 @@
+You now have access to notes. From whatever directory you are in, you'll see a file called notes that contains important information. Use the 'cat' command to view your notes.

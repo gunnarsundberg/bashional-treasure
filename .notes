@@ -1,0 +1,13 @@
+Notes
+
+Plan to steal the Declaration of Independence
+
+1. Go to the gala at the national archives
+2. Find a way to lift employee fingerprints off of an object at the gala. We don't want the object itself, just the fingerprints.
+3. Go back out of the gala and down the hallway. Stop when you find a fingerprint reader.
+4. Put the fingerprint in the fingerprint reader, and then look for a way to activate it.
+5. This should give you access to the restricted area (from the hallway)
+6. Look for an elevator control unit. Once you find it, you'll have to enter a password. Search the staff_file in your bag for 'Password' using grep.
+7. Enter the password and take the elevator to the preservation room.
+8. Put the declaration in your bag and escape!
+
